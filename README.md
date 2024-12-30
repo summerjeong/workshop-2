@@ -1,1 +1,2 @@
-# workshop-2
+# workshop-2 
+This is a social media website called intNUe, where Northwestern students can create a profile and share their favorite artists, genres, and songs. Students can then view and interact with other students' preferences and add other users as friends. The purpose of this application is to facilitate connections between Northwestern students through a love and passion for music. 
